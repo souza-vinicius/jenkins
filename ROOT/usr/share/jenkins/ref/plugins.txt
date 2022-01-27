@@ -1,0 +1,5 @@
+configuration-as-code
+docker-plugin
+job-dsl
+maven-plugin
+sonar
