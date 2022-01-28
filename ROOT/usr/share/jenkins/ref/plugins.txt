@@ -1,5 +1,8 @@
+active-directory
 configuration-as-code
 docker-plugin
 job-dsl
+ldap
 maven-plugin
+matrix-auth
 sonar
